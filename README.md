@@ -1,2 +1,1 @@
-# movie-review-sentiment-analysis
-A machine learning project that analyzes movie reviews and predicts sentiment (positive or negative) using Natural Language Processing and Scikit-learn.
+This project analyzes movie reviews and predicts sentiment (Positive, Negative, or Neutral) by comparing review text with predefined positive and negative word lists. Built using Python and Pandas.
